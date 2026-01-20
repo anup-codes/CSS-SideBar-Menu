@@ -26,7 +26,8 @@ This project focuses on layout design, positioning, and smooth UI interaction.
 ## 📸 Preview
 
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/18aa8c3f-6e84-4c95-a47a-8991dffd356f" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/451ab8e6-7981-4b8f-adda-252414325bf1" />
+
 
 
 ---------------------------------------
